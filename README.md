@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img src="https://i.ibb.co/cFMPxqD/neon-cyberpunk-header.gif" width="100%" alt="Neon cyberpunk banner" />
@@ -69,32 +68,25 @@ When I am away from my editor, I spend time playing musical instruments, singing
   <code>MySQL</code>
 </p>
 
-## `> featured_projects`
+## `> organizations`
 
-### `01` VANTA
+<div align="center">
 
-An online multiplayer shooter built for fast-paced competitive play. It includes Free-for-All, Team Deathmatch, Deathmatch, and Push-to-Talk voice communication.
+  <a href="https://www.tup.edu.ph/">
+    <img src="assets/images/tup.png" width="120" alt="Technological University of the Philippines logo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/TUPgraybots/">
+    <img src="https://tse2.mm.bing.net/th/id/OIP.ADqOgUUBN2-a3YPRktLPqQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="TUP Grayhawks Robotics logo" />
+  </a>
 
-`C/C++` `Raylib` `Opus` `Playit.gg` `Tiled`
+  <br />
 
-### `02` Xpose
+  <strong>Technological University of the Philippines</strong>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>TUP Grayhawks Robotics</strong>
 
-A lightweight secret scanner for educational security work. It checks local directories and cloned GitHub repositories for exposed API keys, access tokens, database credentials, and other sensitive information, then creates a `report.json` file.
-
-`Python` `Colorama` `Git` `JSON` `Requests`
-
-### `03` Laundry Shop Inventory & POS System
-
-A Java-based management system for laundry businesses, with multiple administrator accounts, inventory management, transaction processing, receipt printing, and customizable system settings.
-
-`Java` `JSON`
-
-## `> education`
-
-| School | Program | Period |
-| --- | --- | --- |
-| Technological University of the Philippines - Manila | Bachelor of Science in Information Technology | 2024 - Present |
-| Arellano University - Jose Rizal Campus | STEM Strand | 2022 - 2024 |
+</div>
 
 ## `> connect`
 
