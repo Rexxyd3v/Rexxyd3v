@@ -61,7 +61,7 @@ When I am away from my editor, I spend time playing musical instruments, singing
 <h3><font color="#ffd000">Languages</font></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,dart&theme=dark" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,dart&theme=dark" alt="Programming languages" />
 </p>
 
 <p align="center">
@@ -70,28 +70,24 @@ When I am away from my editor, I spend time playing musical instruments, singing
   <code>Python</code>&nbsp;&nbsp;
   <code>Java</code>&nbsp;&nbsp;
   <code>JavaScript</code>&nbsp;&nbsp;
-  <code>TypeScript</code>&nbsp;&nbsp;
   <code>Dart</code>
 </p>
 
 <h3><font color="#00ffbc">Web Development</font></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,angular&theme=dark" alt="Web development stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express&theme=dark" alt="Web development stack" />
 </p>
 
 <p align="center">
   <code>HTML5</code>&nbsp;&nbsp;
   <code>CSS3</code>&nbsp;&nbsp;
   <code>JavaScript</code>&nbsp;&nbsp;
-  <code>TypeScript</code>&nbsp;&nbsp;
   <code>Node.js</code>&nbsp;&nbsp;
-  <code>Express.js</code>&nbsp;&nbsp;
-  <code>React</code>&nbsp;&nbsp;
-  <code>Angular</code>
+  <code>Express.js</code>
 </p>
 
-<h3><font color="#ffd000">Mobile &amp; Application Development</font></h3>
+<h3><font color="#ffd000">Mobile Development</font></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Mobile development stack" />
@@ -106,7 +102,7 @@ When I am away from my editor, I spend time playing musical instruments, singing
 <h3><font color="#00ffbc">IoT &amp; Embedded Systems</font></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi,esp32&theme=dark" alt="IoT and embedded systems stack" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,esp32&theme=dark" alt="IoT and embedded systems" />
 </p>
 
 <p align="center">
@@ -114,20 +110,17 @@ When I am away from my editor, I spend time playing musical instruments, singing
   <code>ESP32</code>&nbsp;&nbsp;
   <code>ESP8266</code>&nbsp;&nbsp;
   <code>Embedded C/C++</code>&nbsp;&nbsp;
-  <code>Microcontrollers</code>&nbsp;&nbsp;
-  <code>Sensors</code>
+  <code>Microcontrollers</code>
 </p>
 
-<h3><font color="#ffd000">Databases &amp; Backend</font></h3>
+<h3><font color="#ffd000">Database &amp; Backend</font></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,nodejs,express&theme=dark" alt="Database and backend stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,nodejs,express&theme=dark" alt="Database and backend technologies" />
 </p>
 
 <p align="center">
   <code>MySQL</code>&nbsp;&nbsp;
-  <code>PostgreSQL</code>&nbsp;&nbsp;
-  <code>MongoDB</code>&nbsp;&nbsp;
   <code>SQL</code>&nbsp;&nbsp;
   <code>Node.js</code>&nbsp;&nbsp;
   <code>Express.js</code>&nbsp;&nbsp;
@@ -137,24 +130,7 @@ When I am away from my editor, I spend time playing musical instruments, singing
 <h3><font color="#00ffbc">Tools &amp; Development</font></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,linux,windows,docker&theme=dark" alt="Development tools" />
-</p>
-
-<p align="center">
-  <code>Git</code>&nbsp;&nbsp;
-  <code>GitHub</code>&nbsp;&nbsp;
-  <code>VS Code</code>&nbsp;&nbsp;
-  <code>Figma</code>&nbsp;&nbsp;
-  <code>Android Studio</code>&nbsp;&nbsp;
-  <code>Linux</code>&nbsp;&nbsp;
-  <code>Windows</code>&nbsp;&nbsp;
-  <code>Docker</code>
-</p>
-
-<h3><font color="#ffd000">Development Environment</font></h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,androidstudio,linux&theme=dark" alt="Development environment" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,androidstudio,linux&theme=dark" alt="Development tools" />
 </p>
 
 <p align="center">
