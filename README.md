@@ -77,7 +77,7 @@ When I am away from my editor, I spend time playing musical instruments, singing
 
 <div align="center">
 
-  <a href="https://www.tup.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Technological_University_of_the_Philippines_seal.svg/240px-Technological_University_of_the_Philippines_seal.svg.png" width="84" height="84" alt="Technological University of the Philippines logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/TUPgraybots/"><img src="https://tse2.mm.bing.net/th/id/OIP.ADqOgUUBN2-a3YPRktLPqQHaHa%3Fr%3D0%26rs%3D1%26pid%3DImgDetMain%26o%3D7%26rm%3D3" width="84" height="84" alt="TUP Grayhawks Robotics logo" /></a>
+  <a href="https://www.tup.edu.ph/"><img src="tup-logo.png" width="84" height="84" alt="Technological University of the Philippines logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/TUPgraybots/"><img src="graybots.png" width="84" height="84" alt="TUP Grayhawks Robotics logo" /></a>
 
   <br />
 
