@@ -2,9 +2,7 @@
 
   <img src="https://i.ibb.co/cFMPxqD/neon-cyberpunk-header.gif" width="100%" alt="Neon cyberpunk banner" />
 
-  <pre style="color:#ffd000; font-weight:bold; line-height:1.15;"
->
-██████╗ ███████╗██╗  ██╗    ██╗      █████╗ ████████╗ █████╗ ██╗   ██╗ █████╗ ██████╗  █████╗
+  <pre style="color:#ffd000; font-weight:bold; line-height:1.15;">██████╗ ███████╗██╗  ██╗    ██╗      █████╗ ████████╗ █████╗ ██╗   ██╗ █████╗ ██████╗  █████╗
 ██╔══██╗██╔════╝╚██╗██╔╝    ██║     ██╔══██╗╚══██╔══╝██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
 ██████╔╝█████╗   ╚███╔╝     ██║     ███████║   ██║   ███████║ ╚████╔╝ ███████║██║  ██║███████║
 ██╔══██╗██╔══╝   ██╔██╗     ██║     ██╔══██║   ██║   ██╔══██║  ╚██╔╝  ██╔══██║██║  ██║██╔══██║
@@ -25,7 +23,7 @@
 
 <br />
 
-## `> whoami`
+<h2><font color="#00ffbc">&gt; whoami</font></h2>
 
 Hello! I am **Rex Jemar B. Latayada**, a **Bachelor of Science in Information Technology** student at the **Technological University of the Philippines - Manila**.
 
@@ -33,32 +31,32 @@ I enjoy understanding how systems work from the inside out, then turning that kn
 
 When I am away from my editor, I spend time playing musical instruments, singing, and creating poster paintings.
 
-## `> current_focus`
+<h2><font color="#ffd000">&gt; current_focus</font></h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Systems</h3>
+      <h3><font color="#00ffbc">Systems</font></h3>
       <p>Embedded hardware, Arduino projects, and connected devices designed around real-world use cases.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Software</h3>
+      <h3><font color="#ffd000">Software</font></h3>
       <p>Desktop, web, and game applications with an emphasis on clear interfaces and reliable behavior.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Security</h3>
+      <h3><font color="#00ffbc">Security</font></h3>
       <p>Learning how to identify exposed secrets and build safer development workflows.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Growth</h3>
+      <h3><font color="#ffd000">Growth</font></h3>
       <p>Always learning, always building, and looking for better ways to solve technical problems.</p>
     </td>
   </tr>
 </table>
 
-## `> tech_stack`
+<h2><font color="#00ffbc">&gt; tech_stack</font></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,nodejs,express,mysql,arduino,git,figma,vscode&theme=dark" alt="Technology icons" />
@@ -75,27 +73,31 @@ When I am away from my editor, I spend time playing musical instruments, singing
   <code>MySQL</code>
 </p>
 
-## `> organizations`
+<h2><font color="#ffd000">&gt; affiliations</font></h2>
 
 <div align="center">
 
   <a href="https://www.tup.edu.ph/">
-    <img src="assets/images/tup.png" width="120" alt="Technological University of the Philippines logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Technological_University_of_the_Philippines_seal.svg/240px-Technological_University_of_the_Philippines_seal.svg.png" width="120" alt="Technological University of the Philippines logo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/TUPgraybots/">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.ADqOgUUBN2-a3YPRktLPqQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="TUP Grayhawks Robotics logo" />
+    <img src="https://tse2.mm.bing.net/th/id/OIP.ADqOgUUBN2-a3YPRktLPqQHaHa%3Fr%3D0%26rs%3D1%26pid%3DImgDetMain%26o%3D7%26rm%3D3" width="120" alt="TUP Grayhawks Robotics logo" />
   </a>
 
   <br />
 
+  <strong><font color="#00ffbc">SCHOOL</font></strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong><font color="#ffd000">ORGANIZATION</font></strong>
+  <br />
   <strong>Technological University of the Philippines</strong>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <strong>TUP Grayhawks Robotics</strong>
 
 </div>
 
-## `> connect`
+<h2><font color="#00ffbc">&gt; connect</font></h2>
 
 <div align="center">
 
