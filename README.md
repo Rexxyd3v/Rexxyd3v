@@ -25,15 +25,15 @@
 
 <h2><font color="#00ffbc">&gt; whoami</font></h2>
 
-<img align="right" src="morning-coding.gif" width="240" alt="Morning at home: coding on a laptop with hot coffee and a dog, in warm sunlight" />
+<p align="center">
+  <img src="morning-coding.gif" width="320" alt="Morning at home: coding on a laptop with hot coffee and a dog, in warm sunlight" />
+</p>
 
 Hello! I am **Rex Jemar B. Latayada**, a **Bachelor of Science in Information Technology** student at the **Technological University of the Philippines - Manila**.
 
 I enjoy understanding how systems work from the inside out, then turning that knowledge into useful applications. My interests sit at the intersection of **IoT development, cybersecurity, embedded systems, and application development**.
 
 When I am away from my editor, I spend time playing musical instruments, singing, and creating poster paintings.
-
-<br clear="both" />
 
 <h2><font color="#ffd000">&gt; current_focus</font></h2>
 
