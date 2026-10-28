@@ -10,10 +10,6 @@
   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝</pre>
 
   <p>
-    <img src="morning-coding.gif" width="520" alt="Morning at home: coding on a laptop with hot coffee and a dog, in warm sunlight" />
-  </p>
-
-  <p>
     <strong>IoT &amp; Software Developer</strong><br />
     Building practical systems where hardware, software, and creativity meet.
   </p>
@@ -29,11 +25,15 @@
 
 <h2><font color="#00ffbc">&gt; whoami</font></h2>
 
+<img align="right" src="morning-coding.gif" width="240" alt="Morning at home: coding on a laptop with hot coffee and a dog, in warm sunlight" />
+
 Hello! I am **Rex Jemar B. Latayada**, a **Bachelor of Science in Information Technology** student at the **Technological University of the Philippines - Manila**.
 
 I enjoy understanding how systems work from the inside out, then turning that knowledge into useful applications. My interests sit at the intersection of **IoT development, cybersecurity, embedded systems, and application development**.
 
 When I am away from my editor, I spend time playing musical instruments, singing, and creating poster paintings.
+
+<br clear="both" />
 
 <h2><font color="#ffd000">&gt; current_focus</font></h2>
 
@@ -144,17 +144,20 @@ When I am away from my editor, I spend time playing musical instruments, singing
 
 <h2><font color="#ffd000">&gt; affiliations</font></h2>
 
-<div align="center">
-
-<a href="https://www.tup.edu.ph/"><img src="tup-logo.png" width="84" height="84" alt="Technological University of the Philippines logo" /></a>    <a href="https://www.facebook.com/TUPgraybots/"><img src="graybots.png" width="84" height="84" alt="TUP Grayhawks Robotics logo" /></a>
-
-  <br />
-
-<strong><font color="#00ffbc">SCHOOL</font></strong>
-         <strong><font color="#ffd000">ORGANIZATION</font></strong> <br /> <strong>Technological University of the Philippines</strong>
-     <strong>TUP Grayhawks Robotics</strong>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <p><strong><font color="#00ffbc">SCHOOL</font></strong></p>
+      <a href="https://www.tup.edu.ph/"><img src="tup-logo.png" width="84" height="84" alt="Technological University of the Philippines logo" /></a>
+      <p><strong>Technological University of the Philippines</strong></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <p><strong><font color="#ffd000">ORGANIZATION</font></strong></p>
+      <a href="https://www.facebook.com/TUPgraybots/"><img src="graybots.png" width="84" height="84" alt="TUP Grayhawks Robotics logo" /></a>
+      <p><strong>TUP Grayhawks Robotics</strong></p>
+    </td>
+  </tr>
+</table>
 
 <h2><font color="#00ffbc">&gt; connect</font></h2>
 
