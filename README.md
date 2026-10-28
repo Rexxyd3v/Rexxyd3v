@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/cFMPxqD/neon-cyberpunk-header.gif" width="100%" alt="Neon cyberpunk banner" />
-
   <pre style="color:#ffd000; font-weight:bold; line-height:1.15;">██████╗ ███████╗██╗  ██╗    ██╗      █████╗ ████████╗ █████╗ ██╗   ██╗ █████╗ ██████╗  █████╗
   ██╔══██╗██╔════╝╚██╗██╔╝    ██║     ██╔══██╗╚══██╔══╝██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
   ██████╔╝█████╗   ╚███╔╝     ██║     ███████║   ██║   ███████║ ╚████╔╝ ███████║██║  ██║███████║
