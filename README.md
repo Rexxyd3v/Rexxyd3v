@@ -125,7 +125,7 @@ When I am away from my editor, I spend time playing musical instruments, singing
     <td width="50%" valign="top">
       <h3><font color="#00ffbc">Tools &amp; Development</font></h3>
       <p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,androidstudio,linux&theme=dark" height="32" alt="Development tools" /></p>
-      <p><img src="https://img.shields.io/badge/Fritzing-008C8C?style=flat-square" height="20" alt="Fritzing" /> <img src="https://img.shields.io/badge/Tinkercad-F7941D?style=flat-square" height="20" alt="Tinkercad" /></p>
+      <p><a href="https://fritzing.org/"><img src="https://fritzing.org/assets/uploads/logo/badge-sticker-color-fb268f883cc7c6c2f2e29e2f07331f5b29e02f7d837a24a76bbbef78ed32b9c6.png" height="32" alt="Fritzing logo" /></a>&nbsp;&nbsp;<a href="https://www.tinkercad.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Autodesk_Tinkercad_Logo.svg" height="32" alt="Tinkercad logo" /></a></p>
       <p>
   <code>Git</code>&nbsp;&nbsp;
   <code>GitHub</code>&nbsp;&nbsp;
@@ -144,20 +144,22 @@ When I am away from my editor, I spend time playing musical instruments, singing
 
 <h2><font color="#ffd000">&gt; affiliations</font></h2>
 
-<table>
+<div align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <p><strong><font color="#00ffbc">SCHOOL</font></strong></p>
-      <a href="https://www.tup.edu.ph/"><img src="tup-logo.png" width="84" height="84" alt="Technological University of the Philippines logo" /></a>
-      <p><strong>Technological University of the Philippines</strong></p>
+      <p align="center"><strong><font color="#00ffbc">SCHOOL</font></strong></p>
+      <p align="center"><a href="https://www.tup.edu.ph/"><img src="tup-logo.png" width="84" height="84" alt="Technological University of the Philippines logo" /></a></p>
+      <p align="center"><strong>Technological University of the Philippines</strong></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <p><strong><font color="#ffd000">ORGANIZATION</font></strong></p>
-      <a href="https://www.facebook.com/TUPgraybots/"><img src="graybots.png" width="84" height="84" alt="TUP Grayhawks Robotics logo" /></a>
-      <p><strong>TUP Grayhawks Robotics</strong></p>
+      <p align="center"><strong><font color="#ffd000">ORGANIZATION</font></strong></p>
+      <p align="center"><a href="https://www.facebook.com/TUPgraybots/"><img src="graybots.png" width="84" height="84" alt="TUP Grayhawks Robotics logo" /></a></p>
+      <p align="center"><strong>TUP Grayhawks Robotics</strong></p>
     </td>
   </tr>
 </table>
+</div>
 
 <h2><font color="#00ffbc">&gt; connect</font></h2>
 
