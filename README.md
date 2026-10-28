@@ -10,6 +10,10 @@
   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝</pre>
 
   <p>
+    <img src="morning-coding.gif" width="520" alt="Morning at home: coding on a laptop with hot coffee and a dog, in warm sunlight" />
+  </p>
+
+  <p>
     <strong>IoT &amp; Software Developer</strong><br />
     Building practical systems where hardware, software, and creativity meet.
   </p>
@@ -58,13 +62,12 @@ When I am away from my editor, I spend time playing musical instruments, singing
 
 <h2><font color="#00ffbc">&gt; tech_stack</font></h2>
 
-<h3><font color="#ffd000">Languages</font></h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,dart&theme=dark" alt="Programming languages" />
-</p>
-
-<p align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><font color="#ffd000">Languages</font></h3>
+      <p><img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,dart&theme=dark" height="32" alt="Programming languages" /></p>
+      <p>
   <code>C</code>&nbsp;&nbsp;
   <code>C++</code>&nbsp;&nbsp;
   <code>Python</code>&nbsp;&nbsp;
@@ -72,68 +75,58 @@ When I am away from my editor, I spend time playing musical instruments, singing
   <code>JavaScript</code>&nbsp;&nbsp;
   <code>Dart</code>
 </p>
-
-<h3><font color="#00ffbc">Web Development</font></h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express&theme=dark" alt="Web development stack" />
-</p>
-
-<p align="center">
+    </td>
+    <td width="50%" valign="top">
+      <h3><font color="#00ffbc">Web Development</font></h3>
+      <p><img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express&theme=dark" height="32" alt="Web development stack" /></p>
+      <p>
   <code>HTML5</code>&nbsp;&nbsp;
   <code>CSS3</code>&nbsp;&nbsp;
   <code>JavaScript</code>&nbsp;&nbsp;
   <code>Node.js</code>&nbsp;&nbsp;
   <code>Express.js</code>
 </p>
-
-<h3><font color="#ffd000">Mobile Development</font></h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Mobile development stack" />
-</p>
-
-<p align="center">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><font color="#ffd000">Mobile Development</font></h3>
+      <p><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" height="32" alt="Mobile development stack" /></p>
+      <p>
   <code>Flutter</code>&nbsp;&nbsp;
   <code>Dart</code>&nbsp;&nbsp;
   <code>Android</code>
 </p>
-
-<h3><font color="#00ffbc">IoT &amp; Embedded Systems</font></h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,esp32&theme=dark" alt="IoT and embedded systems" />
-</p>
-
-<p align="center">
+    </td>
+    <td width="50%" valign="top">
+      <h3><font color="#00ffbc">IoT &amp; Embedded Systems</font></h3>
+      <p><img src="https://skillicons.dev/icons?i=arduino,cpp,esp32&theme=dark" height="32" alt="IoT and embedded systems" /></p>
+      <p>
   <code>Arduino</code>&nbsp;&nbsp;
   <code>ESP32</code>&nbsp;&nbsp;
   <code>ESP8266</code>&nbsp;&nbsp;
   <code>Embedded C/C++</code>&nbsp;&nbsp;
   <code>Microcontrollers</code>
 </p>
-
-<h3><font color="#ffd000">Database &amp; Backend</font></h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,nodejs,express&theme=dark" alt="Database and backend technologies" />
-</p>
-
-<p align="center">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><font color="#ffd000">Database &amp; Backend</font></h3>
+      <p><img src="https://skillicons.dev/icons?i=mysql,nodejs,express&theme=dark" height="32" alt="Database and backend technologies" /></p>
+      <p>
   <code>MySQL</code>&nbsp;&nbsp;
   <code>SQL</code>&nbsp;&nbsp;
   <code>Node.js</code>&nbsp;&nbsp;
   <code>Express.js</code>&nbsp;&nbsp;
   <code>REST API</code>
 </p>
-
-<h3><font color="#00ffbc">Tools &amp; Development</font></h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,androidstudio,linux&theme=dark" alt="Development tools" />
-</p>
-
-<p align="center">
+    </td>
+    <td width="50%" valign="top">
+      <h3><font color="#00ffbc">Tools &amp; Development</font></h3>
+      <p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,androidstudio,linux&theme=dark" height="32" alt="Development tools" /></p>
+      <p><img src="https://img.shields.io/badge/Fritzing-008C8C?style=flat-square" height="20" alt="Fritzing" /> <img src="https://img.shields.io/badge/Tinkercad-F7941D?style=flat-square" height="20" alt="Tinkercad" /></p>
+      <p>
   <code>Git</code>&nbsp;&nbsp;
   <code>GitHub</code>&nbsp;&nbsp;
   <code>VS Code</code>&nbsp;&nbsp;
@@ -141,7 +134,13 @@ When I am away from my editor, I spend time playing musical instruments, singing
   <code>Arduino IDE</code>&nbsp;&nbsp;
   <code>Android Studio</code>&nbsp;&nbsp;
   <code>Linux</code>
+
+  <code>Fritzing</code>&nbsp;&nbsp;
+  <code>Tinkercad</code>
 </p>
+    </td>
+  </tr>
+</table>
 
 <h2><font color="#ffd000">&gt; affiliations</font></h2>
 
