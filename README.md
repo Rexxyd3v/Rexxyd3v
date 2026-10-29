@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Rex Latayada</h1>
+  <h1>REX LATAYADA</h1>
 
   <p>
     <strong>IoT &amp; Software Developer</strong><br />
